@@ -10,8 +10,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Provider](https://img.shields.io/badge/Provider-State%20Management-5C6BC0?style=for-the-badge)](https://pub.dev/packages/provider)
 [![GetStorage](https://img.shields.io/badge/GetStorage-Local%20DB-9C27B0?style=for-the-badge)](https://pub.dev/packages/get_storage)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 <br/>
 
@@ -222,10 +221,12 @@ flutter build apk --release
 
 ## 👤 Author
 
-**Aiman Yasir**
+**Aiman Yasir |Junior Flutter Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/AIMAN-YASIR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aiman-yasir-b59172371)
+[![GitHub](https://img.shields.io/badge/GitHub-AIMAN--YASIR-181717?style=flat-square&logo=github)](https://github.com/AIMAN-YASIR)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aiman-yasir-b59172371)
+
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:aimanyasir0005@gmail.com)
 
 ---
