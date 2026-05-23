@@ -186,7 +186,7 @@ dependencies:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/spendwise.git
+https://github.com/AIMAN-YASIR/SpendWise.git
 
 # 2. Navigate to the project directory
 cd spendwise
