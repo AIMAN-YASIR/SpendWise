@@ -29,7 +29,7 @@
 <p align="center">
   <img src="assets/screenshots/splash.png" width="200" alt="Splash"/>
   &nbsp;
-  <img src="assets/screenshots/logo_screen.png" width="200" alt="Logo Screen"/>
+  <!-- <img src="assets/screenshots/logo screen.png" width="200" alt="Logo Screen"/> -->
   &nbsp;
   <img src="assets/screenshots/home.png" width="200" alt="Home"/>
 </p>
@@ -63,7 +63,7 @@
   &nbsp;
   <img src="assets/screenshots/analytics.png" width="200" alt="Analytics - Pie Chart"/>
   &nbsp;
-  <img src="assets/screenshots/monthly(chart).png" width="200" alt="Monthly Bar Chart"/>
+  <img src="assets/screenshots/montly(chart).png" width="200" alt="Monthly Bar Chart"/>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@
 |---|---|
 | 💰 **Dashboard** | Total balance, income & expense summary at a glance |
 | ➕ **Add Transactions** | Log income or expenses with category, date, time & optional notes |
-| ✏️ **Edit & Delete** | Swipe left to delete or tap to edit any transaction |
+| ✏️ **Edit & Delete** | Swipe left to delete or right to edit any transaction |
 | 🔍 **Search & Filter** | Search by name; filter by All / Income / Expense |
 | 📊 **Monthly Summary** | Per-category expense breakdown with visual progress bars |
 | 📈 **Analytics** | Donut chart for category spending + monthly bar chart with date range filter |
@@ -208,7 +208,7 @@ flutter build apk --release
 
 ---
 
-## 🔮 Roadmap
+## 🔮 Future Enhancement
 
 - [ ] User authentication & cloud sync (Firebase)
 - [ ] Budget goals & spending alerts
@@ -216,7 +216,6 @@ flutter build apk --release
 - [ ] CSV & PDF export
 - [ ] Biometric app lock
 - [ ] Multi-account support
-- [ ] iOS support
 - [ ] Multi-language localization
 
 ---
@@ -225,17 +224,12 @@ flutter build apk --release
 
 **Aiman Yasir**
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/AIMAN-YASIR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aiman-yasir-b59172371)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:aimanyasir0005@gmail.com)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
